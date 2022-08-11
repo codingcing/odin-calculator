@@ -93,6 +93,14 @@ body {
     line-height: 70px;
 }
 
+.akey {
+    background-color: rgb(237, 182, 79);
+}
+
+.ekey {
+    background-color: rgb(75, 165, 75);
+}
+
 .key:hover,
 .akey:hover,
 .ekey:hover,
