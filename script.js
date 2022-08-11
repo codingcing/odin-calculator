@@ -196,10 +196,10 @@ document.addEventListener("keydown", (event) => {
             document.getElementById("-").click();
         break;
         case "*":
-            document.getElementById("&times;").click();
+            document.getElementById("×").click();
         break;
         case "/":
-            document.getElementById("&divide;").click();
+            document.getElementById("÷").click();
         break;
         case "Enter":
             document.getElementById("=").click();
